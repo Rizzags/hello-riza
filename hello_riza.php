@@ -1,3 +1,3 @@
 <?php
-  echo "Rizaags";
+  echo "hello wahab";
 ?>
